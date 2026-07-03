@@ -1,0 +1,9 @@
+# Ignorar chave do Google Cloud
+*.json
+
+# Ignorar dados brutos
+copa-challenger/data/raw
+copa-challenger/data/processed
+
+venv/
+__pycache__/
